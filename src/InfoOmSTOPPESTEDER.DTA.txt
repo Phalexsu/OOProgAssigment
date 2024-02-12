@@ -1,0 +1,2 @@
+0'ene i STOPPESTEDER.DTA er ikke tidene mellom stoppene,
+men relasjonene mellom dem. 0 betyr ingen relasjon.
